@@ -72,6 +72,7 @@ public class ControlerBehavior : MonoBehaviour
         //we're taking them from the GameObject which holds the script;
         myRigidbody2D = GetComponent<Rigidbody2D>();
        
+      //GetComponent<Animator>().SetBool("IsRunning", true);
     }
 
     // Update is called once per frame
@@ -83,6 +84,17 @@ public class ControlerBehavior : MonoBehaviour
         if (myRigidbody2D.velocity.sqrMagnitude < maxSpeed)
         {
             myRigidbody2D.AddForce(direction * speed);
+            var isRunning = direction.x != 0;
+            GetComponent<Animator>().SetBool("IsRunning", isRunning);
+
+            if(direction.x < 0)
+            {
+                GetComponent<SpriteRenderer>().flipX = true;
+            }
+            if(direction.x > 0)
+            {
+                GetComponent<SpriteRenderer>().flipX = false;
+            }
         }
        
     }
