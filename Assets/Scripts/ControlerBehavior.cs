@@ -73,6 +73,7 @@ public class ControlerBehavior : MonoBehaviour
         myRigidbody2D = GetComponent<Rigidbody2D>();
        
       //GetComponent<Animator>().SetBool("IsRunning", true);
+      //GetComponent<Animator>().SetBool("IsJumping", true);
     }
 
     // Update is called once per frame
@@ -86,6 +87,11 @@ public class ControlerBehavior : MonoBehaviour
             myRigidbody2D.AddForce(direction * speed);
             var isRunning = direction.x != 0;
             GetComponent<Animator>().SetBool("IsRunning", isRunning);
+
+            //var isJumping = Vertical;
+            //GetComponent<Animator>().SetBool("IsJumping", isJumping);
+
+
 
             if(direction.x < 0)
             {
