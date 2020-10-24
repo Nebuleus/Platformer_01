@@ -498,6 +498,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 211.5
@@ -548,6 +560,92 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
   m_PrefabInstance: {fileID: 49126642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &49736010
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 883348479}
+    m_Modifications:
+    - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Name
+      value: Cristals_White_Light (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 20.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterAngle
+      value: 55.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.392269
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -20.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.0028919976
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999958
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_RootOrder
+      value: 61
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 180
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+--- !u!4 &49736011 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+  m_PrefabInstance: {fileID: 49736010}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &57335369
 GameObject:
@@ -2717,6 +2815,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 235.5
@@ -2830,6 +2940,95 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
   m_PrefabInstance: {fileID: 63461392}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &136098075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 136098076}
+  - component: {fileID: 136098077}
+  m_Layer: 0
+  m_Name: Freeform Light 2D (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &136098076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136098075}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 83.29, y: -5.01, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 151824667}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &136098077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136098075}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LightType: 1
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.39
+  m_Color: {r: 1, g: 0.99624616, b: 0.4198113, a: 1}
+  m_Intensity: 2.9
+  m_LightVolumeOpacity: 0.13
+  m_ApplyToSortingLayers: 3336482a00000000d108bb512537c62f7ff70dfc
+  m_LightCookieSprite: {fileID: 0}
+  m_UseNormalMap: 0
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_ShadowIntensity: 0
+  m_ShadowVolumeIntensity: 0
+  m_PointLightInnerAngle: 360
+  m_PointLightOuterAngle: 360
+  m_PointLightInnerRadius: 0
+  m_PointLightOuterRadius: 1
+  m_PointLightDistance: 3
+  m_PointLightQuality: 1
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 3.97
+  m_ShapeLightFalloffOffset: {x: 1.75, y: -17.88}
+  m_ShapePath:
+  - {x: -0.39013004, y: -1.5389242, z: 0}
+  - {x: -0.12411499, y: -1.8645787, z: 0}
+  - {x: 0.40548706, y: -1.901103, z: 0}
+  - {x: 0.8424301, y: -1.6595159, z: 0}
+  - {x: 0.8802948, y: -1.0975738, z: 0}
+  - {x: 1.4829407, y: -0.96973944, z: 0}
+  - {x: 1.428154, y: -0.6227608, z: 0}
+  - {x: 1.6838226, y: -0.51318884, z: 0}
+  - {x: 1.4098969, y: -0.2757821, z: 0}
+  - {x: 1.4464188, y: 0.089458466, z: 0}
+  - {x: 0.77072144, y: 0.071196556, z: 0}
+  - {x: 0.7524643, y: 0.655581, z: 0}
+  - {x: 0.46596527, y: 0.93846893, z: 0}
+  - {x: -0.09244537, y: 0.9892831, z: 0}
+  - {x: -0.4345703, y: 0.7834153, z: 0}
+  - {x: -0.37978363, y: 0.12598228, z: 0}
+  - {x: -0.96416473, y: 0.089458466, z: 0}
+  - {x: -1.2380981, y: -0.4036169, z: 0}
+  - {x: -0.9824295, y: -0.64102316, z: 0}
+  - {x: -0.9276428, y: -1.0245252, z: 0}
+  - {x: -0.41630554, y: -1.0427876, z: 0}
 --- !u!1 &151824666
 GameObject:
   m_ObjectHideFlags: 0
@@ -2858,7 +3057,9 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1877108032}
+  - {fileID: 136098076}
   m_Father: {fileID: 1237703978}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3502,6 +3703,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 240.5
@@ -3625,6 +3838,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3750,6 +3975,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 213.5
@@ -3855,6 +4092,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3990,6 +4239,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.98101234
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 132.5
@@ -4052,6 +4313,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4391577
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 63.86
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 132.5
@@ -4066,19 +4347,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.99999964
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: -0.00088974496
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -4136,11 +4417,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8459933936065411389, guid: 590c84c5dbd87b04ab56e646779a21fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 144.5
+      value: -5.84
       objectReference: {fileID: 0}
     - target: {fileID: 8459933936065411389, guid: 590c84c5dbd87b04ab56e646779a21fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -12.1
+      value: -4.31
       objectReference: {fileID: 0}
     - target: {fileID: 8459933936065411389, guid: 590c84c5dbd87b04ab56e646779a21fe, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5575,6 +5856,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4614362
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 58
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 0.96657693
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 129.5
@@ -5589,19 +5890,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.9999773
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: 0.0067442493
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -5637,6 +5938,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4170225
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 49.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.8925545
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 119.5
@@ -5651,19 +5972,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.9999988
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: -0.0015610625
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -5699,6 +6020,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4723812
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 54.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.28109956
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 128.5
@@ -5713,19 +6054,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.9999984
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: 0.0018008766
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -6200,6 +6541,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 233.5
@@ -6631,6 +6984,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9977,6 +10342,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 238.52
@@ -10101,6 +10478,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4393102
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 67.13
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 31.5
@@ -10115,19 +10512,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.9999763
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: -0.006887705
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -16116,6 +16513,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 175.5
@@ -16177,6 +16586,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16301,6 +16722,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16454,6 +16887,7 @@ Transform:
   - {fileID: 1604977230}
   - {fileID: 1952267339}
   - {fileID: 1217689650}
+  - {fileID: 49736011}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16467,6 +16901,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16529,6 +16975,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -16811,6 +17269,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 31.5
@@ -16964,6 +17434,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.5
@@ -17025,6 +17507,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17131,6 +17625,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.97360396
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17370,6 +17876,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 238.5
@@ -17432,6 +17950,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 28.5
@@ -17493,6 +18023,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -17778,6 +18320,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 29.5
@@ -17902,6 +18456,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 202.5
@@ -17963,6 +18529,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -18240,6 +18818,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 35.5
@@ -18302,6 +18892,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.90975475
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 129.5
@@ -18363,6 +18965,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.015290737
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20878,6 +21492,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.439496
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 56.69
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 0.93989503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 123.5
@@ -20892,19 +21526,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.9999433
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: 0.010646829
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -21002,6 +21636,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 231.5
@@ -21063,6 +21709,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.85491776
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21288,6 +21946,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9509299
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 126.5
@@ -21339,6 +22009,78 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
   m_PrefabInstance: {fileID: 1874625632}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1877108031
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1877108032}
+  - component: {fileID: 1877108033}
+  m_Layer: 0
+  m_Name: Freeform Light 2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1877108032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1877108031}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.56, y: 1.45, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 151824667}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1877108033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1877108031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073797afb82c5a1438f328866b10b3f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LightType: 1
+  m_BlendStyleIndex: 0
+  m_FalloffIntensity: 0.39
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Intensity: 2.9
+  m_LightVolumeOpacity: 0.13
+  m_ApplyToSortingLayers: 3336482a
+  m_LightCookieSprite: {fileID: 0}
+  m_UseNormalMap: 0
+  m_LightOrder: 0
+  m_AlphaBlendOnOverlap: 0
+  m_ShadowIntensity: 0
+  m_ShadowVolumeIntensity: 0
+  m_PointLightInnerAngle: 360
+  m_PointLightOuterAngle: 360
+  m_PointLightInnerRadius: 0
+  m_PointLightOuterRadius: 1
+  m_PointLightDistance: 3
+  m_PointLightQuality: 1
+  m_ShapeLightParametricSides: 5
+  m_ShapeLightParametricAngleOffset: 0
+  m_ShapeLightParametricRadius: 1
+  m_ShapeLightFalloffSize: 3.97
+  m_ShapeLightFalloffOffset: {x: 1.75, y: -17.88}
+  m_ShapePath:
+  - {x: -0.39013004, y: -1.5389242, z: 0}
+  - {x: 0.6415448, y: -1.4221098, z: 0}
+  - {x: 0.9305186, y: 1.5460255, z: 0}
+  - {x: -1.0238099, y: 1.0805936, z: 0}
 --- !u!4 &1892653483 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8459933936065411389, guid: 590c84c5dbd87b04ab56e646779a21fe, type: 3}
@@ -21463,6 +22205,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.053106308
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 124.5
@@ -21525,6 +22279,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4834422
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 61.99
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 126.5
@@ -21539,19 +22301,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -21586,6 +22348,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9780209
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21649,6 +22423,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cristals_White_Light
       objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightOuterRadius
+      value: 1.4613495
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_PointLightInnerAngle
+      value: 45.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.04096198
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 120.5
@@ -21663,19 +22457,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.7071068
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.000000030908623
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.7071068
+      value: 0.99999183
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.000000030908623
+      value: -0.0040487507
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_RootOrder
@@ -21710,6 +22504,18 @@ PrefabInstance:
     - target: {fileID: 124023663596275922, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_Name
       value: Cristals_White_Light
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.18854403
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2400478245551905374, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3312283391006282270, guid: 9681ce8e84c54f54a8a1dc3043f61c1e, type: 3}
       propertyPath: m_LocalPosition.x
