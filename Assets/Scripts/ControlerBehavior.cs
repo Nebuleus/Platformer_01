@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Events;
+
 
 public class ControlerBehavior : MonoBehaviour
 {
@@ -13,6 +15,7 @@ public class ControlerBehavior : MonoBehaviour
 
     private Rigidbody2D myRigidbody2D;
     //this variable refers to a RigidBody2D Component;
+    private Animator myAnimator;
 
 
     private Vector2 stickDirection;
@@ -20,6 +23,14 @@ public class ControlerBehavior : MonoBehaviour
     //this bool will verify if the player is on the ground;
     private bool isFacingLeft = true;
     //this bool will check which direction the Player's facing;
+    [Header("Events")]
+	[Space]
+
+	public UnityEvent OnLandEvent;
+
+	[System.Serializable]
+	public class BoolEvent : UnityEvent<bool> { }
+
 
 
 
@@ -45,6 +56,7 @@ public class ControlerBehavior : MonoBehaviour
             isOnGround = false;
             //since the player is jumping (and not touching the ground anymore), we set up the "isOnGround" boolean to false;
             //Is it on ground ? NO -> False;
+            myAnimator.SetBool("IsJumping", true);
         }
 
     }
@@ -71,6 +83,8 @@ public class ControlerBehavior : MonoBehaviour
         //we assign each Component to it's variable;
         //we're taking them from the GameObject which holds the script;
         myRigidbody2D = GetComponent<Rigidbody2D>();
+        
+        myAnimator = GetComponent<Animator>();
        
       //GetComponent<Animator>().SetBool("IsRunning", true);
       //GetComponent<Animator>().SetBool("IsJumping", true);
@@ -101,9 +115,11 @@ public class ControlerBehavior : MonoBehaviour
             {
                 GetComponent<SpriteRenderer>().flipX = false;
             }
+             //myAnimator.SetBool("IsJumping", true);
         }
        
     }
+
 
     private void OnCollisionEnter2D(Collision2D other)
     {
@@ -117,6 +133,18 @@ public class ControlerBehavior : MonoBehaviour
         //the boolean will be set to true;
         {
             isOnGround = true;
+            myAnimator.SetBool("IsJumping", false);
+
         }
     }
+    public void Move(float move, bool crouch, bool jump)
+	{
+        if (isOnGround && jump)
+		{
+			// Add a vertical force to the player.
+			isOnGround = false;
+			myRigidbody2D.AddForce(new Vector2(0f, jumpForce));
+		}
+	}
 }
+
