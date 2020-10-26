@@ -8,20 +8,20 @@ public class Menu : MonoBehaviour
 
     public void StartGame()
  {
-     SceneManager.LoadScene("Map");
+     SceneManager.LoadScene("Map");   //permet de charger la scene "Map"
  }
     public void QuitGame()
  {
-     Application.Quit();
+     Application.Quit();      // permet de quitter le jeu
       Debug.Log("EXIT GAME");
  }
      public void Credits()
     {
         SceneManager.LoadScene("Credits");    //permet de charger la scene "Credits"
     }
-    public void Leave()
+    public void Leave()  
     {
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("Menu");  // permet de revenir dans la scène "Menu"
     }
 
 }
